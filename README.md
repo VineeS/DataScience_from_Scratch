@@ -1,4 +1,4 @@
-# DataScience_from_Scratch
+# Data Science from Scratch
 I have taken examples from the book and a few other hacks inspired by Joel Grus' Data Science from Scratch.
 
 Enjoying the book
